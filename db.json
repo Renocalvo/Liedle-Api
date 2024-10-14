@@ -1,0 +1,60 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "H&M",
+      "website": "https://www.hm.com",
+      "description": "H&M offers fashion and quality at the best price in a sustainable way.",
+      "image": "https://via.placeholder.com/150x200"
+    },
+    {
+      "id": 2,
+      "name": "Zara",
+      "website": "https://www.zara.com",
+      "description": "Zara is one of the largest international fashion companies and part of Inditex, one of the world's largest distribution groups.",
+      "image": "https://via.placeholder.com/150x200"
+    },
+    {
+      "id": 3,
+      "name": "Uniqlo",
+      "website": "https://www.uniqlo.com",
+      "description": "Uniqlo is a Japanese brand offering casual wear, with a focus on quality and minimalist design.",
+      "image": "https://via.placeholder.com/150x200"
+    },
+    {
+      "id": 4,
+      "name": "Nike",
+      "website": "https://www.nike.com",
+      "description": "Nike is a global sportswear and fashion brand known for innovative athletic footwear and apparel.",
+      "image": "https://via.placeholder.com/150x200"
+    },
+    {
+      "id": 5,
+      "name": "Adidas",
+      "website": "https://www.adidas.com",
+      "description": "Adidas is a leader in the global sporting goods industry, offering a wide range of sportswear, footwear, and accessories.",
+      "image": "https://via.placeholder.com/150x200"
+    },
+    {
+      "id": 6,
+      "name": "Gucci",
+      "website": "https://www.gucci.com",
+      "description": "Gucci is an Italian luxury brand of fashion and leather goods, renowned for its bold designs and high-quality craftsmanship.",
+      "image": "https://via.placeholder.com/150x200"
+    },
+    {
+      "id": 7,
+      "name": "Louis Vuitton",
+      "website": "https://www.louisvuitton.com",
+      "description": "Louis Vuitton is a French fashion house and luxury retail company known for its iconic bags and stylish accessories.",
+      "image": "https://via.placeholder.com/150x200"
+    },
+    {
+      "id": 8,
+      "name": "Prada",
+      "website": "https://www.prada.com",
+      "description": "Prada is an Italian luxury fashion house specializing in high-end leather handbags, shoes, ready-to-wear, and accessories.",
+      "image": "https://via.placeholder.com/150x200"
+    }
+  ]
+}
